@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\Chartis.Pdf.Application\Chartis.Pdf.Application.csproj" />
+    <ProjectReference Include="..\Chartis.Pdf.Domain\Chartis.Pdf.Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="bblanchon.PDFium.Linux" Version="135.0.7009" />
+    <PackageReference Include="PDFiumSharpV2" Version="1.0.0" />
+    <PackageReference Include="PDFsharp" Version="6.1.1" />
+    <PackageReference Include="SkiaSharp" Version="3.119.2" />
+    <PackageReference Include="Tesseract" Version="5.2.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.2" />
+  </ItemGroup>
+</Project>

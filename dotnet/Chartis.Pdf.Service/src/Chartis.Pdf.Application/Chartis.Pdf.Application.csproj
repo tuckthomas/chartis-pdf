@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\Chartis.Pdf.Domain\Chartis.Pdf.Domain.csproj" />
+  </ItemGroup>
+</Project>

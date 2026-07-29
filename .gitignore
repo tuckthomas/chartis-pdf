@@ -1,0 +1,30 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+TestResults/
+*.nupkg
+*.snupkg
+artifacts/
+
+# NuGet
+*.lock.json
+!packages.lock.json
+
+# Node / pnpm
+node_modules/
+dist/
+.pnpm-store/
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tesseract data (large, download at runtime)
+tessdata/

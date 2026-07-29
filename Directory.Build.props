@@ -1,0 +1,14 @@
+<Project>
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <LangVersion>latest</LangVersion>
+    <Authors>TuckThomas</Authors>
+    <Company>Pyrick</Company>
+    <PackageProjectUrl>https://github.com/tuckthomas/chartis-pdf</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/tuckthomas/chartis-pdf</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+</Project>
