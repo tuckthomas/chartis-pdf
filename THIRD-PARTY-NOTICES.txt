@@ -1,0 +1,35 @@
+Chartis PDF Studio — Third-Party Notices
+
+This repository incorporates third-party open-source components. Corresponding license texts are located in the LICENSES/ directory.
+
+Component Notices & Licenses:
+
+1. PDFium / bblanchon.PDFium.Linux / PDFiumSharpV2
+   - License: BSD 3-Clause
+   - Copyright (c) 2014 The PDFium Authors. All rights reserved.
+   - License Text: LICENSES/PDFium-LICENSE.txt
+
+2. PDFsharp (6.1.1)
+   - License: MIT
+   - Copyright (c) 2005-2024 empira Software GmbH, Cologne (Germany)
+   - License Text: LICENSES/PDFsharp-LICENSE.txt
+
+3. Tesseract OCR (5.2.0)
+   - License: Apache-2.0
+   - Copyright (c) 2006-2024 Ray Smith, Google LLC, and contributors.
+   - License Text: LICENSES/Tesseract-LICENSE.txt
+
+4. SkiaSharp (3.119.2)
+   - License: MIT
+   - Copyright (c) Microsoft Corporation. All rights reserved.
+   - License Text: LICENSES/SkiaSharp-LICENSE.txt
+
+5. React & React DOM (18.x / 19.x)
+   - License: MIT
+   - Copyright (c) Meta Platforms, Inc. and affiliates.
+   - License Text: LICENSES/React-LICENSE.txt
+
+6. Vite & Vitest
+   - License: MIT
+   - Copyright (c) 2019-present Evan You & Vite contributors.
+   - License Text: LICENSES/Vite-LICENSE.txt
