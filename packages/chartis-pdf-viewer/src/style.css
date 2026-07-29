@@ -1,0 +1,54 @@
+/* Chartis PDF Viewer Component Styles */
+.pdf-toolbar-divider {
+  width: 1px;
+  height: 1.75rem;
+  background-color: var(--skiamime-border, #cbd5e1);
+  margin: 0 0.25rem;
+}
+
+.pdf-toolbar-input {
+  width: 4rem;
+  padding: 0.35rem 0.5rem;
+  font-size: inherit;
+  text-align: center;
+}
+
+.pdf-toolbar-pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.5rem;
+  background-color: var(--color-muted, #f1f5f9);
+  border: 1px solid var(--skiamime-border, #cbd5e1);
+  color: var(--skiamime-text-secondary, #64748b);
+  font-size: 0.875rem;
+  font-weight: 700;
+  min-width: 4.5rem;
+}
+
+.pdf-viewer-body {
+  min-height: 0;
+}
+
+.pdf-viewer-sidebar {
+  --pdf-sidebar-rail-width: 64px;
+  --pdf-sidebar-panel-width: 220px;
+  width: calc(var(--pdf-sidebar-rail-width) + var(--pdf-sidebar-panel-width));
+  min-width: calc(var(--pdf-sidebar-rail-width) + var(--pdf-sidebar-panel-width));
+  background-color: var(--skiamime-surface, #ffffff);
+  display: flex;
+  flex-direction: row;
+  flex: 0 0 auto;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.pdf-thumb {
+  width: var(--pdf-thumb-size, 7.5rem);
+  max-width: 100%;
+  border: 1px solid var(--skiamime-border, #cbd5e1);
+  border-radius: 0.75rem;
+  padding: 0.5rem;
+  cursor: pointer;
+}
