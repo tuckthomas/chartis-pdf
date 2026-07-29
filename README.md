@@ -1,12 +1,10 @@
-# Chartis PDF (???t??)
+# Chartis PDF Studio
 
 [![Framework](https://img.shields.io/badge/.NET-10.0-blue)](#)
 [![npm](https://img.shields.io/badge/npm-%40tuckthomas%2Fchartis--pdf--viewer-red)](#)
 [![License](https://img.shields.io/badge/license-MIT-green)](#)
 
-> *Chartis* (Greek: ???t?? — sheet of paper)
-
-Chartis PDF is a browser-based PDF studio microservice and React component library for rendering, annotating, signing, and processing PDF documents.
+> Browser-based PDF studio microservice and React component library for rendering, annotating, signing, and processing PDF documents.
 
 ---
 
